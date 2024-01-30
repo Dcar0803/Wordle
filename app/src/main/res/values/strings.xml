@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="enter_your_guess">Enter your guess</string>
+    <string name="submit">Submit</string>
+    <string name="target_word">Target Word</string>
+    <string name="reset">Reset</string>
+    <string name="streak_0">Streak: 0</string>
+    <string name="sport_terms">Sport Terms</string>
+</resources>
